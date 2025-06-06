@@ -8,7 +8,7 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>XLUNGS - Login</title>
+    <title>X-LUNGS</title>
 
     <meta name="description" content="" />
 
@@ -87,7 +87,7 @@
                                     </svg>
                                 </span>
                                 <span class="app-brand-text demo text-body fw-bolder"><span
-                                        class="text-capitalize">XLUNGS</span></span>
+                                        class="text-capitalize">X-LUNGS</span></span>
                             </a>
                         </div>
 
